@@ -1,8 +1,7 @@
-[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=josekeitor&show_icons=true&count_private=true&bg_color=30,ff1b6b,45caff&title_color=FFF&icon_color=ffe3e0&text_color=000)](https://github.com/josekeitor/github-readme-stats)
+<!---[![Jose's GitHub stats](https://github-readme-stats.vercel.app/api?username=josekeitor&show_icons=true&count_private=true&bg_color=30,ff1b6b,45caff&title_color=FFF&icon_color=ffe3e0&text_color=000)](https://github.com/josekeitor/github-readme-stats)--->
 
-- 🔭 I’m currently working on finishing my degree to join Uber as a Software Engineer
-- 🌱 I’m currently learning go and software architecture
-- 👯 I’m looking to collaborate on Web3 or mobile developlent projects
+- 🔭 Software Engineer at Uber
+- 🌱 Currently learning about startup funding
 - 💬 Ask me about music and art!
 - 📫 How to reach me: jcag@icloud.com
 - 😄 Pronouns: he/him/his
